@@ -1,19 +1,13 @@
-# Rho Prototype
-The Rho project is still in the concept phase.
+# 💎 Decentralized World Wide Web ERC-721 🌐
+This is a decentralized **World Wide Web** implemented with an **ERC-721 Token** on the **Ethereum Blockchain**.</br>
+I created this project to show, that there's another way to build the World Wide Web. </br>
 
-## Rho-Tor
-The original idea behind Rho is to reward all users who run Tor Nodes (especially Exit Nodes) with a cryptocurrency.
+## 🌐 The Purpose of a decentralized World Wide Web 🌐
+- Nothing can be deleted, once it's published
+- Uncensorable
+- decentralized
 
-## What is Rho
-Rho is a cryptocurrency that can be used to publish data (ex. Website) on the Rho-Blockchain.
-There is no premining to keep Rho equitable, all work is done unsalaried.
+## ❓ How it works ❓
+A Website is build by **ERC-721 Tokens**, each of these Token can carry up to **100 ASCII Words (100 * 256)**
 
-## The Purpose of Rho
-- An uncensorable decentralized and free Network
-- Make the Tor-Network stronger
-
-## Technical Data
-- Rho is not premined and there can be unlimited blocks
-- The maximum size of one block is 10 kilobyte 
-- A block gets generated each second (Each day this would be a size of maximum 0.864 GB)
-- The earlier someone begins with using Rho, the more he gets in reward
+For the Moment only the HTML is being saved in these **ERC-721 Tokens**.
