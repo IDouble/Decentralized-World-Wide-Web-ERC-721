@@ -5,7 +5,9 @@ I created this project to show, that there's another way to build the World Wide
 ## 🌐 The Purpose of a decentralized World Wide Web 🌐
 - Nothing can be deleted, once it's published
 - Uncensorable
-- decentralized
+- Decentralized
+
+![central decentralized distributed World Wide Web](Images/central-decentralized-distributed.png)
 
 ## ❓ How it works ❓
 A Website is build by **ERC-721 Tokens**, each of these Token can carry up to **100 ASCII Words (100 * 256)**
