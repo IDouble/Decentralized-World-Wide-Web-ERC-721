@@ -115,7 +115,7 @@ contract PageItem is ERC721{
     function createPageItem(string _name, address _to) public{
         require(owner == msg.sender); // Only the Owner can create Items
         uint id = items.length; // Item ID = Length of the Array Items
-        items.push(Item(_name,5,1)) // Item ("Sword",5,1)
+        items.push(PageItem(_name,5,1)) // Item ("Sword",5,1)
         _mint(_to,id); // Assigns the Token to the Ethereum Address that is specified
     }
     
