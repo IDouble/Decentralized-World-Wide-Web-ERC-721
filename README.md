@@ -17,7 +17,7 @@ A **decentralized Website** will be build with these **PageItems**.
 For the Moment only the HTML is being saved in these **ERC-721 Tokens**.
 JavaScript & CSS can be loaded from external sources.
 
-### Pseudo Code (Simplified) 📝
+### 📝 Pseudo Code (Simplified) 📝
 ```
 contract PageItem is ERC721{
     
