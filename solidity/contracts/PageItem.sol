@@ -107,11 +107,11 @@ contract PageItem is ERC721{
     	uint256 char99;
     }
 
-    function convertCharArrayToString(string _name, address _to) public{
-    
+    function convertCharArrayToString() public{ // chararray 100x256
+
     }
 
-    function convertStringToCharArray(string _name, address _to) public{
+    function convertStringToCharArray(string str) public{
 
     }
     
