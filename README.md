@@ -10,9 +10,9 @@ I created this project to show, that there's another way to build the World Wide
 ![central decentralized distributed World Wide Web](Images/central-decentralized-distributed.png)
 
 ## ❓ How it works ❓
-A Website is build by **ERC-721 Tokens**, each of these Token can carry up to **100 ASCII Chars (100 * 256)**.
-The **PageItem** is a **Char Array** with the **length of 100 items**, the Chars are saved as **ASCII (8-Bit)**.
-And a decentralized Website will be build with these PageItems. 
+A Website is build by **ERC-721 Tokens**, each of these Token can carry up to **100 ASCII Chars (100 * 256)**.</br>
+The **PageItem** is a **Char Array** with the **length of 100 items**, the Chars are saved as **ASCII (8-Bit)**.</br>
+A **decentralized Website** will be build with these **PageItems**. 
 
 For the Moment only the HTML is being saved in these **ERC-721 Tokens**.
 JavaScript & CSS can be loaded from external sources.
