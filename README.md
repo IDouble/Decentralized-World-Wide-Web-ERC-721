@@ -6,7 +6,7 @@ I created this project to show, that there's another way to build the World Wide
 - **Nothing can be deleted, once it's published**
 - **Uncensorable**
 - **Decentralized**
-- **Websites** can be **published** & **hosted** on the **Blockchain**
+- **Websites** can be **published** & **hosted** on the **Blockchain**, there's no Host Provider needed anymore. 
 
 ![central decentralized distributed World Wide Web](Images/central-decentralized-distributed.png)
 
