@@ -2,5 +2,12 @@
   "dependencies": {
     "global": "^4.3.2",
     "truffle": "^5.0.0"
-  }
+  },
+  "name": "EtherNet",
+  "version": "1.0.0",
+  "description": "Decentralized World Wide Web",
+  "main": "index.js",
+  "repository": "https://github.com/AYIDouble/Decentralized-World-Wide-Web-ERC-721",
+  "author": "Alpay Yildirim",
+  "license": "MIT"
 }
