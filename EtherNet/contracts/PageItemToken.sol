@@ -1,8 +1,8 @@
 pragma solidity ^0.4.24;
 
-contract PageItem is ERC721{
+contract PageItemToken is ERC721{
     
-    // The PageItem is a char array with the length of 100 items, the Chars are saved as ASCII (8-Bit)
+    // The PageItemToken is a char array with the length of 100 items, the Chars are saved as ASCII (8-Bit)
 
     struct PageItem{
     	uint256 char0;
