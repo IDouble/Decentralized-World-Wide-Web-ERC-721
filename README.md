@@ -3,9 +3,10 @@ This is a decentralized **World Wide Web** implemented with an **ERC-721 Token**
 I created this project to show, that there's another way to build the World Wide Web. </br>
 
 ## 🌐 The Purpose of a decentralized World Wide Web 🌐
-- Nothing can be deleted, once it's published
-- Uncensorable
-- Decentralized
+- **Nothing can be deleted, once it's published**
+- **Uncensorable**
+- **Decentralized**
+- **Websites** can be **published** & **hosted** on the **Blockchain**, there's no Host Provider needed anymore. 
 
 ![central decentralized distributed World Wide Web](Images/central-decentralized-distributed.png)
 
